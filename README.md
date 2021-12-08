@@ -1,5 +1,5 @@
 # TESLA CLONE
-For the past month I have been studying HTML, CSS, JS and REACT and here is my first project using react. One thing I wish is that I took the time to learn how to use Git anf Github before starting this one lol. Making the app was pretty smooth until it was just about finished and somehow I completely broke the app. I tried to control Z my way into a state where the app would work again but that didn't happen. After about two days I was able to fix the problem but with GIT it could have been easily avoided.
+For the past month I have been studying HTML, CSS, JS and REACT and here is my first project using react. One thing I wish is that I took the time to Git and Github before starting this one lol. Making the app was pretty smooth until it was just about finished and somehow I completely broke the app. I tried to control Z my way into a state where the app would work again but that didn't happen. After about two days I was able to fix the problem but with GIT it could have been easily avoided.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
