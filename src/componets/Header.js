@@ -12,18 +12,18 @@ function Header() {
           <img src="/images/logo.svg" atl="" />
         </a>
         <Menu>
-          <a href="#">Model S </a>
-          <a href="#">Model 3 </a>
-          <a href="#">Model X </a>
-          <a href="#">Model Y </a>
-          <a href="#">Solar Roof </a>
-          <a href="#">Solar Panels </a>
+          <a href="google.com">Model S </a>
+          <a href="google.com">Model 3 </a>
+          <a href="google.com">Model X </a>
+          <a href="google.com">Model Y </a>
+          <a href="google.com">Solar Roof </a>
+          <a href="google.com">Solar Panels </a>
         </Menu>
         <RightMenu>
-          <a href="#" Shop>
+          <a href="google.com" Shop>
             Shop
           </a>
-          <a href="#" Shop>
+          <a href="google.com" Shop>
             Tesla Account
           </a>
           <CustomMenu onClick={() => setBurgerStatus(true)} />
@@ -33,31 +33,31 @@ function Header() {
             <CustomClose onClick={() => setBurgerStatus(false)} />
           </CloseWrapper>
           <li>
-            <a href="#">Existing Inventory</a>
+            <a href="google.com">Existing Inventory</a>
           </li>
           <li>
-            <a href="#">Used Inventory</a>
+            <a href="google.com">Used Inventory</a>
           </li>
           <li>
-            <a href="#">Trade-in</a>
+            <a href="google.com">Trade-in</a>
           </li>
           <li>
-            <a href="#">Cybertruck</a>
+            <a href="google.com">Cybertruck</a>
           </li>
           <li>
-            <a href="#">Roadster</a>
+            <a href="google.com">Roadster</a>
           </li>
           <li>
-            <a href="#">Test Drive</a>
+            <a href="google.com">Test Drive</a>
           </li>
           <li>
-            <a href="#">Semi</a>
+            <a href="google.com">Semi</a>
           </li>
           <li>
-            <a href="#">Charging</a>
+            <a href="google.com">Charging</a>
           </li>
           <li>
-            <a href="#">Utilities</a>
+            <a href="google.com">Utilities</a>
           </li>
         </BurgerNav>
       </Container>
